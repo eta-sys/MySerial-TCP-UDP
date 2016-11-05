@@ -15,7 +15,7 @@ Windows-based program to communicate over RS, TCP, UDP
   You can capture your whole session to one text file and explore it when it is convenient to you. Just right-click in main ListBox.
   You may use program as a RS protocol recorder, using both channels just Rx wires tied to data-line.
   To send a hex value 1A type '0x1a' including '..'. Note that when you put a control char to the end of your message, the delimiter you set (CR or CRLF) will be omitted!
-     for example: AT'0x1a' will send hex "41 54 1A".
+      for example: AT'0x1a' will send hex "41 54 1A".
   To repeat an already send message, select appropriated TextBox to desired channel then use Up and Down Arrows to find it and press 'ENTER'.
   
   As I use it for testing my mul-project, when opening a file it is set to recommend .ml files first.
