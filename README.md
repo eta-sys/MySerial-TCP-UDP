@@ -6,7 +6,7 @@
    
    MySerial can be downloaded from http://ftp.eta-sys.net/MySerial where actual version hosts. Using it is very easy. No 'Help' required - just hover the mouse over the box you want and a brief message will appear.
    
-   You can send plane text, hex, files and files line by line. 
+   You can send plane text, hex, files and files line by line (after each row waits any response). 
    
    You are in able to set control chars sequence at row end.
    
@@ -22,7 +22,7 @@
       
    To repeat an already send message, select appropriated TextBox to desired channel then use Up and Down Arrows to find it and press 'ENTER'.
   
-   As I use it for testing my mul-project, when opening a file it is set to recommend .ml files first.
+   As I use it for testing my 1mul-project, when opening a file it is set to recommend .ml files first.
 
    Svetlin
  
