@@ -21,7 +21,28 @@
       for example: AT'0x1a' will send hex "41541A".
       
    To repeat an already send message, select appropriated TextBox to desired channel then use Up and Down Arrows to find it and press 'ENTER'.
-  
    
+Right clicking on channel's text box you have options to send a as whole file or row-by-row. The last one means that after sending a row the program will wait any responce from device to send the next row of the file. This is very useful when sending a sequence of AT commands to initialise a device. You can put them in a text file.
+   
+      for example, AT commands to initialize a GSM module SIM800
+         	AT
+	         ATE0
+	         AT+CMEE=0
+            AT+CPBS="SM"
+            AT+CLIP=1
+            AT+CMGF=1
+            AT+CSMS=0
+            AT+VTD=1
+            AT+CLTS=1
+            AT+CHFA=1
+            AT+CLVL=90
+            AT+CMIC=1,11
+            AT+SIDET=1,11
+            AT+CMGDA="DEL ALL"
+            AT+MORING=1
+            AT+DDET=1,250,0,0
+  
+  Right click on main List box and you are given the options to capture whole dialog or only the received data to a file.
+  
    Svetlin
  
