@@ -22,7 +22,7 @@
       
    To repeat an already send message, select appropriated TextBox to desired channel then use Up and Down Arrows to find it and press 'ENTER'.
    
-Right clicking on channel's text box you have options to send a as whole file or row-by-row. The last one means that after sending a row the program will wait any responce from device to send the next row of the file. This is very useful when sending a sequence of AT commands to initialise a device. You can put them in a text file.
+Right clicking on channel's text box you have options to send a file at once or row-by-row. The last one means that after sending a row the program will wait any responce from device to send the next row of the file. This is very useful when sending a sequence of AT commands to initialise a device. You can put them in a text file.
    
       for example, AT commands to initialize a GSM module like SIM800
 	    AT
