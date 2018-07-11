@@ -28,19 +28,19 @@ Right clicking on channel's text box you have options to send a as whole file or
 	    AT
 	    ATE0
 	    AT+CMEE=0
-            AT+CPBS="SM"
-            AT+CLIP=1
-            AT+CMGF=1
-            AT+CSMS=0
-            AT+VTD=1
-            AT+CLTS=1
-            AT+CHFA=1
-            AT+CLVL=90
-            AT+CMIC=1,11
-            AT+SIDET=1,11
-            AT+CMGDA="DEL ALL"
-            AT+MORING=1
-            AT+DDET=1,250,0,0
+	    AT+CPBS="SM"
+	    AT+CLIP=1
+	    AT+CMGF=1
+	    AT+CSMS=0
+	    AT+VTD=1
+	    AT+CLTS=1
+	    AT+CHFA=1
+	    AT+CLVL=90
+	    AT+CMIC=1,11
+	    AT+SIDET=1,11
+	    AT+CMGDA="DEL ALL"
+	    AT+MORING=1
+	    AT+DDET=1,250,0,0
   
   Right click on main List box and you are given the options to capture whole dialog or only the received data to a file.
   
