@@ -2,7 +2,7 @@
 # MySerial TCP UDP
 =======
 
-   MySerial can help you in develop and test of your devices. It offers to you Serial Port, TCP Client and Server, UDP Client and Server Channels. As Client you may use plain IP or DNS name.
+   MySerial can help you to develop and test your devices. It offers to you Serial Port, TCP Client and Server, UDP Client and Server Channels. As Client you may use plain IP or DNS name.
    
    MySerial can be downloaded from http://ftp.eta-sys.net/MyNewSerial where actual version hosts. Using it is very easy. No 'Help' required - just hover the mouse over the box you want and a brief message will appear.
    
